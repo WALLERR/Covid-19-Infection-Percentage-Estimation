@@ -1,3 +1,9 @@
+
+/Train
+/Val Blind
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
